@@ -1,0 +1,223 @@
+Freigegebene Ressourcen auf \\sc005303
+
+
+
+Freigabename                        Typ      Verwendet als  Kommentar                           
+
+-------------------------------------------------------------------------------
+CANON iR-ADV C7280i-22.18-MFG20169  Drucker                 CANON iR-ADV C7280i-22.18-MFG20169  
+Canon-iR-ADV-C250i-12.21-MFG20085   Drucker                 Canon-iR-ADV-C250i-12.21-MFG20085   
+Canon-iR-ADV-C250i-25.17-MFG20084   Drucker                 Canon-iR-ADV-C250i-25.17-MFG20084   
+Canon_iR7200_23.17_NP006367         Drucker                 Canon_iR7200_23.17_NP006367         
+Canon_iRADV_C250i_25.13_MFG20083    Drucker                 Canon_iRADV_C250i_25.13_MFG20083    
+Canon_iRADV_C5235_25.13_MFG20166    Drucker                 Canon_iRADV_C5235_25.13_MFG20166    
+Canon_iRADV_C7280i_23.12_MFG20319   Drucker                 Canon_iRADV_C7280i_23.12_MFG20319   
+HP_400PRO_12.17_NP008418            Drucker                 HP_400PRO_12.17_NP008418            
+HP_400PRO_22.16_NP008417            Drucker                 HP_400PRO_22.16_NP008417            
+HP_CP2025DN_33.18_NP000558          Drucker                 HP_CP2025DN_33.18_NP000558          
+HP_LJ_5200_25.23_NP000718           Drucker                 HP_LJ_5200_25.23_NP000718           
+HP_LJ_5200_25.34_NP000614           Drucker                 HP_LJ_5200_25.34_NP000614           
+HP_LJ_CP2025DN_25.13_NP000719       Drucker                 HP_LJ_CP2025DN_25.13_NP000719       
+HP_LJ_M451DN_25.24_NP004671         Drucker                 HP_LJ_M451DN_25.24_NP004671         
+HP_LJ_M451DN_25.25_NP008419         Drucker                 HP_LJ_M451DN_25.25_NP008419         
+HP_LJ_P3015-23.19_NP001650          Drucker                 HP_LJ_P3015-23.19_NP001650          
+HP_LJ_P3015_12.22_NP008405          Drucker                 HP_LJ_P3015_12.22_NP008405          
+HP_LJ_P3015_23.21_NP001642          Drucker                 HP_LJ_P3015_23.21_NP001642          
+HP_LJ_P3015_C2.09_NP003348          Drucker                 HP_LJ_P3015_C2.09_NP003348          
+HP_LJ_P3015_C2.10_NP003353          Drucker                 HP_LJ_P3015_C2.10_NP003353          
+HP_LJ_P3015_C2.11_NP003346          Drucker                 HP_LJ_P3015_C2.11_NP003346          
+HP_LJ_P3015_C2.12_NP003351          Drucker                 HP_LJ_P3015_C2.12_NP003351          
+HP_LJ_P3015_C2.13_NP003357          Drucker                 HP_LJ_P3015_C2.13_NP003357          
+HP_LJ_P3015DN_12.18_NP008410        Drucker                 HP_LJ_P3015DN_12.18_NP008410        
+HP_LJ_P3015DN_22.15_NP008415        Drucker                 HP_LJ_P3015DN_22.15_NP008415        
+HP_LJ_P3015DN_22.21_NP008409        Drucker                 HP_LJ_P3015DN_22.21_NP008409        
+HP_LJ_P3015DN_32.15_NP000254        Drucker                 HP_LJ_P3015DN_32.15_NP000254        
+HP_LJ_P3015DN_32.18_NP000256        Drucker                 HP_LJ_P3015DN_32.18_NP000256        
+HP_LJ_P3015DN_32.22_NP008398        Drucker                 HP_LJ_P3015DN_32.22_NP008398        
+HP_LJ_P3015DN_32.23_NP008408        Drucker                 HP_LJ_P3015DN_32.23_NP008408        
+HP_P3015_12.15_NP008414             Drucker                 HP_P3015_12.15_NP008414             
+HP_P3015_12.23_NP008416             Drucker                 HP_P3015_12.23_NP008416             
+HP_P3015_22.17_NP008401             Drucker                 HP_P3015_22.17_NP008401             
+HP_P3015_22.18_NP008407             Drucker                 HP_P3015_22.18_NP008407             
+HP_P3015_22.19_NP008406             Drucker                 HP_P3015_22.19_NP008406             
+HP_P3015_22.20_NP008404             Drucker                 HP_P3015_22.20_NP008404             
+HP_P3015_22.22_NP008413             Drucker                 HP_P3015_22.22_NP008413             
+HP_P3015_32.16_NP008403             Drucker                 HP_P3015_32.16_NP008403             
+HP_P3015_32.17_NP008402             Drucker                 HP_P3015_32.17_NP008402             
+HP_P3015_32.20_NP008411             Drucker                 HP_P3015_32.20_NP008411             
+HP_P3015_33.18_NP008420             Drucker                 HP_P3015_33.18_NP008420             
+INEL                                Platte                                                      
+Kyocera_FS-2100dn_32.17_NP009106    Drucker                 Kyocera_FS-2100dn_32.17_NP009106    
+Kyocera_P6130cdn_12.21_NP009216     Drucker                 Kyocera_P6130cdn_12.21_NP009216     
+Kyocera_P6130cdn_32.15_NP009215     Drucker                 Kyocera_P6130cdn_32.15_NP009215     
+TEKS                                Platte                                                      
+Der Befehl wurde erfolgreich ausgefÅhrt.
+
+Freigegebene Ressourcen auf \\sc029903
+
+FS CA0299
+
+Freigabename                            Typ      Verwendet als  Kommentar                               
+
+-------------------------------------------------------------------------------
+Canon_iR_ADV_C5250_Hofm_Raum1_MFG21311  Drucker                 Canon_iR_ADV_C5250_Hofm_Raum1_MFG21311  
+Canon_iRADV_C5235_F220_MFG20221         Drucker                 Canon_iRADV_C5235_F220_MFG20221         
+Canon_iRAdv_C5235i_F022_mfg20222        Drucker                 Canon_iRAdv_C5235i_F022_mfg20222        
+Canon_iRAdv_C5235i_F106_mfg20220        Drucker                 Canon_iRAdv_C5235i_F106_mfg20220        
+Canon_iRAdv_C5235i_F125_mfg20224        Drucker                 Canon_iRAdv_C5235i_F125_mfg20224        
+Canon_iRADV_C5250_F314_MFG20109         Drucker                 Canon_iRADV_C5250_F314_MFG20109         
+Canon_iRADV_C5250_F325_MFG20108         Drucker                 Canon_iRADV_C5250_F325_MFG20108         
+Canon_iRADV_C5250_F419_MFG20111         Drucker                 Canon_iRADV_C5250_F419_MFG20111         
+Canon_iRADV_C5250_F504_MFG20112         Drucker                 Canon_iRADV_C5250_F504_MFG20112         
+Canon_iRADV_C5255i_F119_MFG20219        Drucker                 Canon_iRADV_C5255i_F119_MFG20219        
+Canon_iRADVC5250_F207_MFG20106          Drucker                 Canon_iRADVC5250_F207_MFG20106          
+Epson AL-C9300_Hofm_Raum5_NP001839      Drucker                 Epson AL-C9300_Hofm_Raum5_NP001839      
+EPSON-SC-T7000-F221-LFP10001            Drucker                 EPSON-SC-T7000-F221-LFP10001            
+Epson_AC_M2400DN_D401_NP001957          Drucker                 Epson_AC_M2400DN_D401_NP001957          
+Epson_AC_M2400DN_F106_NP001964          Drucker                 Epson_AC_M2400DN_F106_NP001964          
+Epson_AC_M2400DN_F208_NP001947          Drucker                 Epson_AC_M2400DN_F208_NP001947          
+Epson_AC_M2400DN_F219_NP001951          Drucker                 Epson_AC_M2400DN_F219_NP001951          
+Epson_AC_M2400DN_FGAS_NP001966          Drucker                 Epson_AC_M2400DN_FGAS_NP001966          
+Epson_AL_M2400_F113_NP001955            Drucker                 Epson_AL_M2400_F113_NP001955            
+EPSON_C9300_F222_NP001977               Drucker                 EPSON_C9300_F222_NP001977               
+Epson_ESC_V4-F116_NP001953              Drucker                 Epson_ESC_V4-F116_NP001953              
+FUGE                                    Platte                                                          
+HP_CLJ5550_F206_P1016010                Drucker                 HP_CLJ5550_F206_P1016010                
+HP_CLJ5550_F314_P1016011                Drucker                 HP_CLJ5550_F314_P1016011                
+HP_CLJ5550_F408_P1012893                Drucker                 HP_CLJ5550_F408_P1012893                
+HP_CLJ5550_F419_P1014858                Drucker                 HP_CLJ5550_F419_P1014858                
+HP_CLJ5550_F504_P1012892                Drucker                 HP_CLJ5550_F504_P1012892                
+HP_CLJ5550_F523_P1009910                Drucker                 HP_CLJ5550_F523_P1009910                
+HP_CLP_5520-F221-NP004999               Drucker                 HP_CLP_5520-F221-NP004999               
+HP_LJ_400C_E133_NP005768                Drucker                 HP_LJ_400C_E133_NP005768                
+HP_LJ_5200_F206_P1016006                Drucker                 HP_LJ_5200_F206_P1016006                
+HP_LJ_5200_F222-P1013886                Drucker                 HP_LJ_5200_F222-P1013886                
+HP_LJ_M451_D401_NP006779                Drucker                 HP_LJ_M451_D401_NP006779                
+HP_LJ_M451_F215_NP005664                Drucker                 HP_LJ_M451_F215_NP005664                
+HP_LJ_P3015_F223_NP007243               Drucker                 HP_LJ_P3015_F223_NP007243               
+HP_LJ_P3015_F226_NP005794               Drucker                 HP_LJ_P3015_F226_NP005794               
+HP_LJ_P3015_F226_NP007236               Drucker                 HP_LJ_P3015_F226_NP007236               
+HP_LJ_P3015_F314_NP007244               Drucker                 HP_LJ_P3015_F314_NP007244               
+HP_LJ_P3015_F316_NP007238               Drucker                 HP_LJ_P3015_F316_NP007238               
+HP_LJ_P3015_F419_NP007239               Drucker                 HP_LJ_P3015_F419_NP007239               
+HP_LJ_P3015_F420_NP007237               Drucker                 HP_LJ_P3015_F420_NP007237               
+HP_LJ_P3015_F425_NP007240               Drucker                 HP_LJ_P3015_F425_NP007240               
+HP_LJ_P3015_F525_NP007241               Drucker                 HP_LJ_P3015_F525_NP007241               
+SPUV                                    Platte                                                          
+Der Befehl wurde erfolgreich ausgefÅhrt.
+
+Freigegebene Ressourcen auf \\sc058503
+
+
+
+Freigabename                    Typ      Verwendet als  Kommentar                       
+
+-------------------------------------------------------------------------------
+Canon_C5235i_2.1.06_MFG20174    Drucker                 Canon_C5235i_2.1.06_MFG20174    
+Canon_C5255i_2.1.06_MFG20172    Drucker                 Steht vor Raum 2.1.15           
+Canon_C5255i_2.1.16_MFG20171    Drucker                 Canon_C5255i_2.1.16_MFG20171    
+Canon_C5255i_5.2.19_MFG20189    Drucker                 Canon_C5255i_5.2.19_MFG20189    
+Canon_C7280i_2.1.07_MFG20173    Drucker                 Canon_C7280i_2.1.07_MFG20173    
+Canon_C7280i_5.1.07_MFG20188    Drucker                 Canon_C7280i_5.1.07_MFG20188    
+Canon_C7280i_5.1.07_MFG20190    Drucker                 Canon_C7280i_5.1.07_MFG20190    
+EPSON_AL_C3900_5.2.19_NP001641  Drucker                 EPSON_AL_C3900_5.2.19_NP001641  
+EPSON_AL_C3900_5.2.26_NP001599  Drucker                 EPSON_AL_C3900_5.2.26_NP001599  
+EPSON_AL_C3900_5.3.27_NP001852  Drucker                 EPSON_AL_C3900_5.3.27_NP001852  
+HP LJ_P3015_1.0.22_NP003487     Drucker                 HP LJ_P3015_1.0.22_NP003487     
+HP_CLJ5200DN-5.3.24-P1009386    Drucker                 HP_CLJ5200DN-5.3.24-P1009386    
+HP_CLJ_5525_5.1.07_NP005061     Drucker                 HP_CLJ_5525_5.1.07_NP005061     
+HP_CLJ_5525_5.2.18_NP005060     Drucker                 HP_CLJ_5525_5.2.18_NP005060     
+HP_CLJ_5525_5.3.26_NP005059     Drucker                 HP_CLJ_5525_5.3.26_NP005059     
+HP_CLJ_CP202X_2.1.25_NP000260   Drucker                 HP_CLJ_CP202X_2.1.25_NP000260   
+HP_LJ_M451_5.1.31_NP008256      Drucker                 HP_LJ_M451_5.1.31_NP008256      
+HP_LJ_P3015_1.1.16_NP001280     Drucker                 HP_LJ_P3015_1.1.16_NP001280     
+HP_LJ_P3015_1.1.18_NP000621     Drucker                 HP_LJ_P3015_1.1.18_NP000621     
+HP_LJ_P3015_1.3.13_NP000627     Drucker                 HP_LJ_P3015_1.3.13_NP000627     
+HP_LJ_P3015_1.3.14_NP000648     Drucker                 HP_LJ_P3015_1.3.14_NP000648     
+HP_LJ_P3015_1.3.16_NP000639     Drucker                 HP_LJ_P3015_1.3.16_NP000639     
+HP_LJ_P3015_1.3.19_NP000636     Drucker                 HP_LJ_P3015_1.3.19_NP000636     
+HP_LJ_P3015_1.3.21_NP000645     Drucker                 HP_LJ_P3015_1.3.21_NP000645     
+HP_LJ_P3015_1.3.23_NP000655     Drucker                 HP_LJ_P3015_1.3.23_NP000655     
+HP_LJ_P3015_1.U.19_NP001682     Drucker                 HP_LJ_P3015_1.U.19_NP001682     
+HP_LJ_P3015_1.U.23_NP001689     Drucker                 HP_LJ_P3015_1.U.23_NP001689     
+HP_LJ_P3015_2.0.16_NP000643     Drucker                 HP_LJ_P3015_2.0.16_NP000643     
+HP_LJ_P3015_2.0.20_NP000631     Drucker                 HP_LJ_P3015_2.0.20_NP000631     
+HP_LJ_P3015_2.0.21_NP000647     Drucker                 HP_LJ_P3015_2.0.21_NP000647     
+HP_LJ_P3015_2.0.22_NP000651     Drucker                 Reparatur / Ersatz NP004387     
+HP_LJ_P3015_2.0.22_NP004387     Drucker                 Leihgeraet                      
+HP_LJ_P3015_2.0.23_NP000652     Drucker                 HP_LJ_P3015_2.0.23_NP000652     
+HP_LJ_P3015_2.0.24_NP000632     Drucker                 HP_LJ_P3015_2.0.24_NP000632     
+HP_LJ_P3015_2.1.13_NP000650     Drucker                 HP_LJ_P3015_2.1.13_NP000650     
+HP_LJ_P3015_2.1.18_NP000644     Drucker                 HP_LJ_P3015_2.1.18_NP000644     
+HP_LJ_P3015_2.1.20_NP000630     Drucker                 HP_LJ_P3015_2.1.20_NP000630     
+HP_LJ_P3015_2.1.22_NP000646     Drucker                 HP_LJ_P3015_2.1.22_NP000646     
+HP_LJ_P3015_2.1.29_NP000642     Drucker                 HP_LJ_P3015_2.1.29_NP000642     
+HP_LJ_P3015_2.1.31_NP000654     Drucker                 HP_LJ_P3015_2.1.31_NP000654     
+HP_LJ_P3015_2.1.31_NP000657     Drucker                 HP_LJ_P3015_2.1.31_NP000657     
+HP_LJ_P3015_2.2.13_NP000638     Drucker                 HP_LJ_P3015_2.2.13_NP000638     
+HP_LJ_P3015_2.2.14_NP000633     Drucker                 HP_LJ_P3015_2.2.14_NP000633     
+HP_LJ_P3015_2.2.15_NP002098     Drucker                 HP_LJ_P3015_2.2.15_NP002098     
+HP_LJ_P3015_2.2.17_NP002099     Drucker                 HP_LJ_P3015_2.2.17_NP002099     
+HP_LJ_P3015_2.2.19_NP000634     Drucker                 HP_LJ_P3015_2.2.19_NP000634     
+HP_LJ_P3015_2.2.21_NP000653     Drucker                 HP_LJ_P3015_2.2.21_NP000653     
+HP_LJ_P3015_2.2.22_NP000623     Drucker                 HP_LJ_P3015_2.2.22_NP000623     
+HP_LJ_P3015_2.2.24_NP000619     Drucker                 HP_LJ_P3015_2.2.24_NP000619     
+HP_LJ_P3015_2.2.26_NP000637     Drucker                 HP_LJ_P3015_2.2.26_NP000637     
+HP_LJ_P3015_2.2.26_NP006457     Drucker                 LeihgerÑt                       
+HP_LJ_P3015_2.3.13_NP002093     Drucker                 HP_LJ_P3015_2.3.13_NP002093     
+HP_LJ_P3015_2.3.14_NP002095     Drucker                 HP_LJ_P3015_2.3.14_NP002095     
+HP_LJ_P3015_2.3.15_NP000641     Drucker                 HP_LJ_P3015_2.3.15_NP000641     
+HP_LJ_P3015_2.3.16_NP000626     Drucker                 HP_LJ_P3015_2.3.16_NP000626     
+HP_LJ_P3015_2.3.17_NP003467     Drucker                 LeihgerÑt
+ersetzt NP000620     
+HP_LJ_P3015_2.3.19_NP002097     Drucker                 HP_LJ_P3015_2.3.19_NP002097     
+HP_LJ_P3015_2.3.20_NP000628     Drucker                 HP_LJ_P3015_2.3.20_NP000628     
+HP_LJ_P3015_2.3.21_NP000640     Drucker                 HP_LJ_P3015_2.3.21_NP000640     
+HP_LJ_P3015_2.3.22_NP002096     Drucker                 HP_LJ_P3015_2.3.22_NP002096     
+HP_LJ_P3015_3.3.14_NP005643     Drucker                 HP_LJ_P3015_3.3.14_NP005643     
+HP_LJ_P3015_3.3.22_NP000618     Drucker                 HP_LJ_P3015_3.3.22_NP000618     
+HP_LJ_P3015_4.0.22_NP000629     Drucker                 HP_LJ_P3015_4.0.22_NP000629     
+HP_LJ_P3015_4.0.24_NP000616     Drucker                 HP_LJ_P3015_4.0.24_NP000616     
+HP_LJ_P3015_4.0.26_NP005747     Drucker                 HP_LJ_P3015_4.0.26_NP005747     
+HP_LJ_P3015_5.0.15_NP001295     Drucker                 HP_LJ_P3015_5.0.15_NP001295     
+HP_LJ_P3015_5.0.17_NP006628     Drucker                 HP_LJ_P3015_5.0.17_NP006628     
+HP_LJ_P3015_5.0.19_NP001645     Drucker                 HP_LJ_P3015_5.0.19_NP001645     
+HP_LJ_P3015_5.0.20_NP001648     Drucker                 HP_LJ_P3015_5.0.20_NP001648     
+HP_LJ_P3015_5.0.21_NP001655     Drucker                 HP_LJ_P3015_5.0.21_NP001655     
+HP_LJ_P3015_5.0.26_NP001694     Drucker                 HP_LJ_P3015_5.0.26_NP001694     
+HP_LJ_P3015_5.1.07_NP001647     Drucker                 HP_LJ_P3015_5.1.07_NP001647     
+HP_LJ_P3015_5.1.18_NP000575     Drucker                 HP_LJ_P3015_5.1.18_NP000575     
+HP_LJ_P3015_5.1.22_NP001679     Drucker                 HP_LJ_P3015_5.1.22_NP001679     
+HP_LJ_P3015_5.1.23_NP006629     Drucker                 HP_LJ_P3015_5.1.23_NP006629     
+HP_LJ_P3015_5.1.25_NP001688     Drucker                 HP_LJ_P3015_5.1.25_NP001688     
+HP_LJ_P3015_5.1.26_NP006560     Drucker                 HP_LJ_P3015_5.1.26_NP006560     
+HP_LJ_P3015_5.1.29_NP000591     Drucker                 HP_LJ_P3015_5.1.29_NP000591     
+HP_LJ_P3015_5.1.31_NP006621     Drucker                 HP_LJ_P3015_5.3.17_NP006621     
+HP_LJ_P3015_5.2.13_NP000578     Drucker                 HP_LJ_P3015_5.2.13_NP000578     
+HP_LJ_P3015_5.2.13_NP001695     Drucker                 HP_LJ_P3015_5.2.13_NP001695     
+HP_LJ_P3015_5.2.14_NP000576     Drucker                 HP_LJ_P3015_5.2.14_NP000576     
+HP_LJ_P3015_5.2.15_NP006622     Drucker                 HP_LJ_P3015_5.2.15_NP006622     
+HP_LJ_P3015_5.2.16_NP006681     Drucker                 HP_LJ_P3015_5.2.16_NP006681     
+HP_LJ_P3015_5.2.17_NP001644     Drucker                 HP_LJ_P3015_5.2.17_NP001644     
+HP_LJ_P3015_5.2.20_NP000579     Drucker                 HP_LJ_P3015_5.2.20_NP000579     
+HP_LJ_P3015_5.2.21_NP006678     Drucker                 HP_LJ_P3015_5.2.21_NP006678     
+HP_LJ_P3015_5.2.22_NP000593     Drucker                 HP_LJ_P3015_5.2.22_NP000593     
+HP_LJ_P3015_5.2.25_NP006680     Drucker                 HP_LJ_P3015_5.2.25_NP006680     
+HP_LJ_P3015_5.2.26_NP006679     Drucker                 HP_LJ_P3015_5.2.26_NP006679     
+HP_LJ_P3015_5.3.13_NP006624     Drucker                 HP_LJ_P3015_5.3.13_NP006624     
+HP_LJ_P3015_5.3.14_NP000587     Drucker                 HP_LJ_P3015_5.3.14_NP000587     
+HP_LJ_P3015_5.3.15_NP006625     Drucker                 HP_LJ_P3015_5.3.15_NP006625     
+HP_LJ_P3015_5.3.16_NP000577     Drucker                 HP_LJ_P3015_5.3.16_NP000577     
+HP_LJ_P3015_5.3.18_NP006654     Drucker                 HP_LJ_P3015_5.3.18_NP006654     
+HP_LJ_P3015_5.3.19_NP001693     Drucker                 HP_LJ_P3015_5.3.19_NP001693     
+HP_LJ_P3015_5.3.20_NP001654     Drucker                 HP_LJ_P3015_5.3.20_NP001654     
+HP_LJ_P3015_5.3.22_NP006626     Drucker                 HP_LJ_P3015_5.3.22_NP006626     
+HP_LJ_P3015_5.3.23_NP006627     Drucker                 HP_LJ_P3015_5.3.23_NP006627     
+HP_LJ_P3015_5.3.25_NP00585      Drucker                 HP_LJ_P3015_5.3.25_NP00585      
+HP_LJ_P3015DN-1.U.21_NP001651   Drucker                 HP_LJ_P3015DN-1.U.21_NP001651   
+HP_LJ_P3015DN-2.0.19_NP005655   Drucker                 HP_LJ_P3015DN-2.0.19_NP005655   
+HP_LJ_P3015DN-5.3.24-NP001656   Drucker                 HP_LJ_P3015DN-5.3.24-NP001656   
+INTK                            Platte                                                  
+MEBE                            Platte                                                  
+Der Befehl wurde erfolgreich ausgefÅhrt.
+
